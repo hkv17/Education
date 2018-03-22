@@ -1,2 +1,2 @@
-# Education-Geekbrains-Python-Level_1
+# Education
 Learning of python
